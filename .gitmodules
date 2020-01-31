@@ -1,0 +1,3 @@
+[submodule "riscv-core"]
+	path = riscv-core
+	url = https://github.com/dingqy/riscv-core.git
